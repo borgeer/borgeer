@@ -1,4 +1,5 @@
 Bem vindo ao meu perfil 👋
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/ariel-b-cezimbra-854781180/)
 [![instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
