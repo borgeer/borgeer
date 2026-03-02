@@ -34,6 +34,3 @@ Aqui estão as ferramentas e linguagens que utilizo no meu dia a dia:
 </p>
 
 ---
-
-## 📊 Estatísticas do GitHub
-![Estatísticas do Ariel](https://github-readme-stats.vercel.app/api?username=O-TEU-USUARIO-AQUI&show_icons=true&theme=radical)
