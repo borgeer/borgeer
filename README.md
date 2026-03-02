@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 👋 Olá! Sou o Ariel Borger Cezimbra.
+- 👋 Olá! Sou o Ariel Cezimbra.
 - 📚 Atualmente estou a estudar **Python** e **Desenvolvimento Web**.
 - 🎯 O meu objetivo é criar soluções eficientes e aprender novas frameworks.
 - 📫 Como me encontrar:
